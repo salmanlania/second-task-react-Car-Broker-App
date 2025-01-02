@@ -21,7 +21,7 @@ const Home = () => {
             <div className="seeContainer">
                 <div data-aos='fade-up' className="homeText">
                     <span className='homeSpan'>
-                        Meet your new car
+                        Meet your new cars
                     </span>
                     <h1 className='homeTitle'>
                         Honda Civic type R

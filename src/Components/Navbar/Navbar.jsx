@@ -49,7 +49,7 @@ const Navbar = () => {
                     </li>
 
                     <li onClick={removeNavbar} className="listItem">
-                        <a href="/" className="link">Sell</a>
+                        <a href="/" className="link">Sells</a>
                     </li>
 
                 </ul>
